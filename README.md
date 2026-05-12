@@ -16,7 +16,7 @@ AI Builder • OSS Explorer • BITS Pilani
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,docker,git" />
 </p>
 
