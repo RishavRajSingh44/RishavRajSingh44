@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Rishav</h1>
 
 <h3>
-AI Builder • OSS Explorer • BITS Pilani • Hooper • Java+SpringBoot
+Building AI-powered educational tools • OSS Contributor • Spring Boot + React
 </h3>
 
 ---
@@ -28,4 +28,5 @@ AI Builder • OSS Explorer • BITS Pilani • Hooper • Java+SpringBoot
 - Angular
 - Vector Databases
 - AI Agents
+- Docker + Kubernetes
 - Cloud Deployment
