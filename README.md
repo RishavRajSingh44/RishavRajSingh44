@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Rishav</h1>
 
-<!--
-**RishavRajSingh44/RishavRajSingh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Builder • OSS Explorer • BITS Pilani
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+- AI Shorts Generator
+- Spring Boot + React Apps
+- Open Source Projects
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,docker,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?RishavRajSingh44=RishavRajSingh44&show_icons=true&theme=tokyonight)
