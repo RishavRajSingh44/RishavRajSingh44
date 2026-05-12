@@ -8,7 +8,6 @@ AI Builder • OSS Explorer • BITS Pilani • Hooper • Java+SpringBoot
 
 ## 🚀 Currently Building
 
-- AI Shorts Generator
 - Spring Boot + React Apps
 - Open Source Projects
 
@@ -21,3 +20,12 @@ AI Builder • OSS Explorer • BITS Pilani • Hooper • Java+SpringBoot
 </p>
 
 ---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Spring Boot
+- Angular
+- Vector Databases
+- AI Agents
+- Cloud Deployment
