@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Rishav</h1>
 
-<h3 align="center">
-AI Builder • OSS Explorer • BITS Pilani
+<h3>
+AI Builder • OSS Explorer • BITS Pilani • Hooper • Java+SpringBoot
 </h3>
 
 ---
