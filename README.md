@@ -21,7 +21,3 @@ AI Builder • OSS Explorer • BITS Pilani
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?RishavRajSingh44=RishavRajSingh44&show_icons=true&theme=tokyonight)
